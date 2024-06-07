@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DetectTest", "DetectTest\DetectTest.csproj", "{761DB3AB-0CE4-41FF-81EF-2F70EBA69F69}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yolov8Net.Scorer", "Yolov5Net.Scorer\Yolov8Net.Scorer.csproj", "{31ADA9E8-6646-4A34-9284-4E61FB46E4FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{761DB3AB-0CE4-41FF-81EF-2F70EBA69F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{761DB3AB-0CE4-41FF-81EF-2F70EBA69F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{761DB3AB-0CE4-41FF-81EF-2F70EBA69F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{761DB3AB-0CE4-41FF-81EF-2F70EBA69F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31ADA9E8-6646-4A34-9284-4E61FB46E4FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31ADA9E8-6646-4A34-9284-4E61FB46E4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31ADA9E8-6646-4A34-9284-4E61FB46E4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31ADA9E8-6646-4A34-9284-4E61FB46E4FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA73A493-0F15-4596-8B49-04D7347592E5}
+	EndGlobalSection
+EndGlobal
